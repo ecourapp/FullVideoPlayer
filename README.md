@@ -7,9 +7,9 @@ using different episodes of a series,Different video qualitiy.
 The code is simple and adjustable.
 
 ## Installation
--[Intializing Player](#intializing-the-player)
--[Usage](#usage)
--[Arguments and Options](#arguments-and-options)
+- [Intializing Player](#intializing-the-player)
+- [Usage](#usage)
+- [Arguments and Options](#arguments-and-options)
 
 ## Intializing the Player
 Usage in html file:
