@@ -24,7 +24,7 @@ Usage in html file:
 ## Usage
 This player wont work with video source as usual.You have to set the video source through the options. So here is the most simple option list.You can know more about optional options in options section.
 
-#####Single Video:
+##### Single Video:
 
 ```json
 {
@@ -44,7 +44,7 @@ This player wont work with video source as usual.You have to set the video sourc
 }
 ```
 
-#####Multiple Video:
+##### Multiple Video:
 ```json
 {
     "collections" : [
