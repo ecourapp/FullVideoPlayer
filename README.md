@@ -10,6 +10,7 @@ The code is simple and adjustable.
 - [Intializing Player](#intializing-the-player)
 - [Usage](#usage)
 - [Arguments and Options](#arguments-and-options)
+- [Features](#features)
 
 ## Intializing the Player
 Usage in html file:
@@ -106,3 +107,10 @@ Note: Subtiltes should be in vtt structure.
 |:---------------- | :----------------------------------------------------|:------------|:---------|
 | src              | The path of subtitle                                 | `String`    | False    |
 | label            | The label that you wanna appear on item              | `String`    | False    |
+
+
+## Features
+- [Multiple Audios]
+- [Multiple Subtitles]
+- [Saving Last info of watching the video]
+- [Keyboard and Touchpad Events]
