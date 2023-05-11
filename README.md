@@ -110,7 +110,7 @@ Note: Subtiltes should be in vtt structure.
 
 
 ## Features
-- [Multiple Audios]
-- [Multiple Subtitles]
-- [Saving Last info of watching the video]
-- [Keyboard and Touchpad Events]
+- Multiple Audios
+- Multiple Subtitles
+- Resumable. You can reaume video from the last time you watched it.
+- Keyboard and Touchpad Events
