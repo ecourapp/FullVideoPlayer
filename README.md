@@ -13,6 +13,12 @@ The code is simple and adjustable.
 
 ## Intializing the Player
 Usage in html file:
+
+style:
+```html
+<link rel="stylesheet" href="main.min.css">
+```
+script:
 ```html
 <script type="module">
     import { Player } from 'player/player.js';
