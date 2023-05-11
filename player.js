@@ -1,4 +1,3 @@
-// TODO: Activate Subtitle Track after implementing Elements
 import { AudioClass } from "./audio_class.js";
 
 class Player {
