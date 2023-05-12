@@ -7,24 +7,32 @@ using different episodes of a series,Different video qualitiy.
 The code is simple and adjustable.
 
 ## Installation
-- [Intializing Player](#intializing-the-player)
-- [Usage](#usage)
-- [Arguments and Options](#arguments-and-options)
-- [Features](#features)
+- [Full VideoPlayer](#full-videoplayer)
+  - [Installation](#installation)
+  - [Intializing the Player](#intializing-the-player)
+  - [Usage](#usage)
+        - [Single Video:](#single-video)
+        - [Multiple Video:](#multiple-video)
+  - [Arguments and Options](#arguments-and-options)
+        - [Arguments](#arguments)
+        - [Options](#options)
+          - [Subtilte options](#subtilte-options)
+          - [Audio options](#audio-options)
+  - [Features](#features)
 
 ## Intializing the Player
 Usage in html file:
 
 style:
 ```html
-<link rel="stylesheet" href="main.min.css">
+<link rel="stylesheet" href="css/main.min.css">
 ```
 script:
 ```html
 <script type="module">
-    import { Player } from 'player/player.js';
+    import { Player } from 'js/player.js';
     let options;
-    const player = new Player('player', options);
+    const player = new Player('element_id', options);
 </script>
 ```
 
